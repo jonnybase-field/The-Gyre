@@ -8,7 +8,7 @@ Download Unity - https://unity.com/unity-hub
 
 Files supplied
 GyreOneScreen.zip - Current build
-GyreUnityFiles.zip - Current Unity Files
+GyreUnityFiles - Current Unity Files
 extract all files to your local machine.
 
 
