@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6230cf9c7d403804bb2b5afdd5fb7598
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Brevier
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d698a9d0b16871e44a5bfada974de7fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
