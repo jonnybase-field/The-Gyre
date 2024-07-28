@@ -18,11 +18,10 @@ To preview open 'Gyre Prototype' from the Local Gyre build folder
 
 To edit and develop your own version you will need to open two projects
 
-The Mobile Web App and the Desktop Visualisation App
+The mobile web App and the Desktop Visualisation App
 
-The Mobile web app is located here -- 'GyreUnityFiles/Web'
-
-The Mobile app is located here -- 'GyreUnityFiles/Local'
+'GyreUnityFiles/Web'
+'GyreUnityFiles/Local'
 
 Open 'Scenes/SampleScene'
 
