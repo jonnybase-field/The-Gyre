@@ -7,9 +7,9 @@ Make sure you have Unity installed
 Download Unity - https://unity.com/unity-hub
 
 Files supplied
-GyreOneScreen.zip - Current build
+Local Gyre Build - Current build
 GyreUnityFiles - Current Unity Files
-extract all files to your local machine.
+Extract all files to your local machine or repo.
 
 
 ---_---------------------------------------------------------------------------------------------------------------------------------------------------------------------
