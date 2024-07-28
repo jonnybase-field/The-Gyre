@@ -27,11 +27,14 @@ Open 'Scenes/SampleScene'
 
 All of the required assets and graphics are bundled with the project files. to run the project effectively The Gyre requires a basic web hosting package, to maintain a live/synchronous link between the desktop and mobile web application.
 
-4 assett files not incldued due to filessize:
+Some assett files not incldued due to filessize:
 Baby.fbx;
 Cutout.fbx;
 sharedassets0.assets;
-sharedassets0.assets.resS.
+sharedassets0.assets.resS;
+Field_Gyre Environment_Animation_V2_1080P.mp4;
+Square donut.fbx;
+cage.fbx
 
 
 ---_---------------------------------------------------------------------------------------------------------------------------------------------------------------------
